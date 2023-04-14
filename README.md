@@ -5,7 +5,7 @@
 - 📫 Reach me at raul.miranda@alumnos.ucn.cl
 
 
-quick update: got my degree! 😁
+quick update: got my degree! 😁🎓
 <!---
 r-e-miranda/r-e-miranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
