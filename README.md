@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with people that's into machine learning applied to astronomy, not looking for a particular field in astronomy at the moment, just want to explore ML 
 - 📫 Reach me at raul.miranda@alumnos.ucn.cl
 
+
+quick update: got my degree! 😁
 <!---
 r-e-miranda/r-e-miranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
